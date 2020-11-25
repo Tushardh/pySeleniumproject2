@@ -1,0 +1,48 @@
+11/08/2020 10:56:45 PM - Login_page - INFO: Element Found with locator: Email and  locatorType: id
+11/08/2020 10:56:45 PM - Login_page - INFO: Sent data on element with locator: Email locatorType: id
+11/08/2020 10:56:45 PM - Login_page - INFO: Element Found with locator: Password and  locatorType: id
+11/08/2020 10:56:45 PM - Login_page - INFO: Sent data on element with locator: Password locatorType: id
+11/08/2020 10:56:45 PM - Login_page - INFO: Element Found with locator: //input[@class='button-1 login-button'] and  locatorType: xpath
+11/08/2020 10:57:08 PM - Login_page - INFO: Clicked on element with locator: //input[@class='button-1 login-button'] locatorType: xpath
+11/08/2020 10:57:08 PM - TestStatus - INFO: ### Verification Failed ::Title Verified
+11/08/2020 10:57:09 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\USER\PycharmProjects\pySeleniumproject2\base\./screenshots/Title Verified.1604856428557.png
+11/08/2020 10:57:09 PM - Login_page - INFO: Element Found with locator: //li[contains(text(),'John Smith')] and  locatorType: xpath
+11/08/2020 10:57:09 PM - Login_page - INFO: Element Found
+11/08/2020 10:57:09 PM - TestStatus - INFO: ### Verification Successful ::Login was successful
+11/08/2020 10:57:09 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+11/08/2020 10:58:10 PM - Login_page - INFO: Element Found with locator: Email and  locatorType: id
+11/08/2020 10:58:10 PM - Login_page - INFO: Sent data on element with locator: Email locatorType: id
+11/08/2020 10:58:10 PM - Login_page - INFO: Element Found with locator: Password and  locatorType: id
+11/08/2020 10:58:11 PM - Login_page - INFO: Sent data on element with locator: Password locatorType: id
+11/08/2020 10:58:11 PM - Login_page - INFO: Element Found with locator: //input[@class='button-1 login-button'] and  locatorType: xpath
+11/08/2020 10:58:22 PM - Login_page - INFO: Clicked on element with locator: //input[@class='button-1 login-button'] locatorType: xpath
+11/08/2020 10:58:22 PM - TestStatus - INFO: ### Verification Failed ::Title Verified
+11/08/2020 10:58:23 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\USER\PycharmProjects\pySeleniumproject2\base\../screenshots/Title Verified.1604856502689.png
+11/08/2020 10:58:23 PM - Login_page - INFO: Element Found with locator: //li[contains(text(),'John Smith')] and  locatorType: xpath
+11/08/2020 10:58:23 PM - Login_page - INFO: Element Found
+11/08/2020 10:58:23 PM - TestStatus - INFO: ### Verification Successful ::Login was successful
+11/08/2020 10:58:23 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+11/08/2020 11:26:30 PM - Login_page - INFO: Element Found with locator: Email and  locatorType: id
+11/08/2020 11:26:30 PM - Login_page - INFO: Sent data on element with locator: Email locatorType: id
+11/08/2020 11:26:30 PM - Login_page - INFO: Element Found with locator: Password and  locatorType: id
+11/08/2020 11:26:31 PM - Login_page - INFO: Sent data on element with locator: Password locatorType: id
+11/08/2020 11:26:31 PM - Login_page - INFO: Element Found with locator: //input[@class='button-1 login-button'] and  locatorType: xpath
+11/08/2020 11:26:45 PM - Login_page - INFO: Clicked on element with locator: //input[@class='button-1 login-button'] locatorType: xpath
+11/08/2020 11:26:45 PM - Util - INFO: Actual Text From Application Web UI --> :: Dashboard / nopCommerce administration
+11/08/2020 11:26:45 PM - Util - INFO: Expected Text From Application Web UI --> :: Dashboard / nopCommerce administration
+11/08/2020 11:26:45 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+11/08/2020 11:26:45 PM - TestStatus - INFO: ### Verification Successful ::Title Verified
+11/08/2020 11:26:45 PM - Login_page - INFO: Element Found with locator: //li[contains(text(),'John Smith')] and  locatorType: xpath
+11/08/2020 11:26:45 PM - Login_page - INFO: Element Found
+11/08/2020 11:26:45 PM - TestStatus - INFO: ### Verification Successful ::Login was successful
+11/08/2020 11:26:45 PM - TestStatus - ERROR: test_validLogin ### TEST PASSED
+11/08/2020 11:26:45 PM - Login_page - INFO: Element Found with locator: Logout and  locatorType: link
+11/08/2020 11:26:49 PM - Login_page - INFO: Clicked on element with locator: Logout locatorType: link
+11/08/2020 11:26:49 PM - Login_page - INFO: Element Found with locator: Email and  locatorType: id
+11/08/2020 11:26:50 PM - Login_page - INFO: Sent data on element with locator: Email locatorType: id
+11/08/2020 11:26:50 PM - Login_page - INFO: Element Found with locator: Password and  locatorType: id
+11/08/2020 11:26:50 PM - Login_page - INFO: Sent data on element with locator: Password locatorType: id
+11/08/2020 11:26:50 PM - Login_page - INFO: Element Found with locator: //input[@class='button-1 login-button'] and  locatorType: xpath
+11/08/2020 11:26:52 PM - Login_page - INFO: Clicked on element with locator: //input[@class='button-1 login-button'] locatorType: xpath
+11/08/2020 11:26:52 PM - Login_page - INFO: Element Found with locator: //div[contains(text(),'Login was unsuccessful. Please correct the errors and try again.')] and  locatorType: xpath
+11/08/2020 11:26:52 PM - Login_page - INFO: Element Found
